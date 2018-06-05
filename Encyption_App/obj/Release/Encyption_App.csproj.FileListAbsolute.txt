@@ -1,0 +1,8 @@
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\bin\Release\Encyption_App.exe.config
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\bin\Release\Encyption_App.exe
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\bin\Release\Encyption_App.pdb
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\obj\Release\Encyption_App.form1.resources
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\obj\Release\Encyption_App.Properties.Resources.resources
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\obj\Release\Encyption_App.csproj.GenerateResource.Cache
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\obj\Release\Encyption_App.exe
+C:\Users\Karim Noor Ali\documents\visual studio 2015\Projects\Encyption_App\obj\Release\Encyption_App.pdb

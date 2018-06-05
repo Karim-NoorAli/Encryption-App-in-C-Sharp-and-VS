@@ -1,0 +1,9 @@
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\bin\Debug\Encyption_App.exe.config
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\bin\Debug\Encyption_App.exe
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\bin\Debug\Encyption_App.pdb
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.csprojResolveAssemblyReference.cache
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.Properties.Resources.resources
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.csproj.GenerateResource.Cache
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.exe
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.pdb
+c:\users\karim noor ali\documents\visual studio 2015\Projects\Encyption_App\obj\Debug\Encyption_App.form1.resources
